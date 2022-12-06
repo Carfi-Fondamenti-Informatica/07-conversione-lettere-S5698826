@@ -1,8 +1,8 @@
 //
-// Created by Gianluca Leone on 06/12/2022
+// Created by lgian on 06/12/2022.
 //
 
-#ifndef ESERCITAZIONE7
-#define ESERCITAZIONE7
-bool convert(char &);
-#endif //ES7_LIB_H
+#ifndef ESERCITAZIONE_7_LIB_H_H
+#define ESERCITAZIONE_7_LIB_H_H
+bool convert (char &);
+#endif //ESERCITAZIONE_7_LIB_H_H
