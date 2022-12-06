@@ -3,7 +3,7 @@
 
 using namespace std;
 int main(){
-  char z=0;
+  char z;
   cin>>z;
   if (convert(z)){
     cout<<z<<endl;
