@@ -1,15 +1,14 @@
-//
-// Created by lgian on 07/12/2022.
-//
 #include <iostream>
 #include "lib.h"
-bool convert (char &a){
-    if (a>=65 && a<=90){
-        a +=32;
-        return true;
-    }else if(a>=97 && a<=122){
-        a -= 32;
-        return true;
+using namespace std;
+
+int main() {
+    char a=0;
+    cin>>a;
+    if (convert(a)){
+        cout<<a<<endl;
+    }else{
+        cout<<"errore"<<endl;
     }
-    return false;
+    return 0;
 }
