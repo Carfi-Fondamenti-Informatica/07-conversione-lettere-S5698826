@@ -1,5 +1,5 @@
 //
-// Created by lgian on 06/12/2022.
+// Created by Gianluca Leone 06/12/2022.
 //
 
 #ifndef ESERCITAZIONE_7_LIB_H
