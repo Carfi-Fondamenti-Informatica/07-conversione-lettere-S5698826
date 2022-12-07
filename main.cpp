@@ -1,6 +1,7 @@
 //
 // Created by lgian on 07/12/2022.
 //
+#include <iostream>
 #include "lib.h"
 bool convert (char &a){
     if (a>=65 && a<=90){
